@@ -1,0 +1,19 @@
+<AdwareDefinition>
+    <Version>1.0</Version>
+    <SavingThrowVersion>1.1.0</SavingThrowVersion>
+    <DefinitionAuthor>Shea Craig</DefinitionAuthor>
+    <DefinitionSource>Durham Academy</DefinitionSource>
+    <Adware>
+        <AdwareName>AppCleaner</AdwareName>
+        <File>/Applications/AppCleaner.app</File>
+        <File cruft="true">/Users/*/Library/Application Support/AppCleaner</File>
+        <File cruft="true">/Users/*/Library/Caches/net.freemacsoft.AppCleaner</File>
+        <File cruft="true">/Users/*/Library/Caches/com.freemacsoft.AppCleaner</File>
+        <File cruft="true">/Users/*/Library/Preferences/net.freemacsoft.AppCleaner.plist</File>
+        <File cruft="true">/Users/*/Library/Preferences/net.freemacsoft.AppCleaner-SmartDelete.plist</File>
+        <File cruft="true">/Users/*/Library/Preferences/com.freemacsoft.AppCleaner.plist</File>
+        <File cruft="true">/Users/*/Library/Saved Application State/net.freemacsoft.AppCleaner.savedState</File>
+        <Process>AppCleaner</Process>
+    </Adware>
+</AdwareDefinition>
+
