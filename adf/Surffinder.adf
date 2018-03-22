@@ -1,0 +1,11 @@
+<AdwareDefinition>
+    <Version>96</Version>
+    <SavingThrowVersion>1.1.0</SavingThrowVersion>
+    <DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+    <DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+    <Adware>
+        <AdwareName>Surffinder</AdwareName>
+        <File>/Users/*/Library/Application Support/com.Safe Surf Finder</File>
+        <Process>Surffinder</Process>
+	</Adware>
+</AdwareDefinition>

@@ -1,0 +1,10 @@
+<AdwareDefinition>
+	<Version>90</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>CyberGhost VPN</AdwareName>
+		<File cruft="true">/Library/Application Support/com.cyberghostsrl.cyberghostmac.plist</File>
+	</Adware>
+</AdwareDefinition>

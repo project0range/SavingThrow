@@ -1,0 +1,22 @@
+<AdwareDefinition>
+	<Version>90</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>PUP.Advanced Mac Cleaner</AdwareName>
+		<File>/Applications/Advanced Mac Cleaner.app</File>
+		<File cruft="true">/Library/Application Support/amc/</File>
+		<File cruft="true">/Users/*/Library/Advanced Mac Cleaner</File>
+		<File cruft="true">/Users/*/Library/hlpramc</File>
+		<File cruft="true">/Users/*/Library/Application Support/Advanced Mac Cleaner</File>
+		<File cruft="true">/Users/*/Library/Application Support/amc</File>
+		<File cruft="true">/Users/*/Library/Caches/com.pcv.amcuninstall</File>
+		<File cruft="true">/Users/*/Library/Logs/Advanced Mac Cleaner.log</File>
+		<File cruft="true">/Users/*/Library/Cookies/com.pcv.hlpramc.binarycookies</File>
+		<File>/Users/*/Library/LaunchAgents/com.pcv.hlpramc.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.pcv.hlpramcn.plist</File>
+		<File>/Users/*/Library/Preferences/com.pcv.hlpramc.plist</File>
+		<File>/Users/*/Library/Caches/com.pcv.hlpramc</File>
+	</Adware>
+</AdwareDefinition>

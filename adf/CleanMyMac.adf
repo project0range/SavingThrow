@@ -1,0 +1,18 @@
+<AdwareDefinition>
+	<Version>90</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>CleanMyMac</AdwareName>
+		<File>/Applications/cleanmymac 3.app</File>
+		<File cruft="true">/Users/*/Library/Application Support/CleanMyMac 3</File>
+		<File cruft="true">/Users/*/Library/Application Support/CleanMyMac 3 Menu</File>
+		<File>/Users/*/Downloads/CleanMyMac3.dmg</File>
+		<File>/Users/*/Library/Preferences/com.macpaw.CleanMyMac3.KnowledgeBase.plist</File>
+		<File>/Users/*/Library/Preferences/com.macpaw.CleanMyMac3.Menu.plist</File>
+		<File>/Users/*/Library/Preferences/com.macpaw.CleanMyMac3.plist</File>
+		<File>/Users/*/Library/Preferences/com.macpaw.CleanMyMac3.Scheduler.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.macpaw.CleanMyMac3.Scheduler.plist</File>
+	</Adware>
+</AdwareDefinition>

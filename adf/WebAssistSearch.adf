@@ -1,0 +1,11 @@
+<AdwareDefinition>
+	<Version>95</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>Web Assist Search</AdwareName>
+		<File>/Users/*/Library/Application Support/com.WebAssistSearch</File>
+		<File>/Users/*/Library/LaunchAgents/com.WebAssistSearch.plist</File>
+	</Adware>
+</AdwareDefinition>

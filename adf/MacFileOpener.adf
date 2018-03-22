@@ -1,0 +1,12 @@
+<AdwareDefinition>
+	<Version>90</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>Mac File Opener</AdwareName>
+		<File?/users/*/library/application support/mac file opener/mac file opener.app</File>
+		<File cruft="true">/users/*/library/application support/mac file opener/mac file opener.app/contents/macos/mac file opener</File>
+		<Process>MacKeeper</Process>
+	</Adware>
+</AdwareDefinition>

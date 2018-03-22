@@ -1,0 +1,11 @@
+<AdwareDefinition>
+	<Version>1.0</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Paul Prieto</DefinitionAuthor>
+	<DefinitionSource>Paul Prieto</DefinitionSource>
+	<Adware>
+		<AdwareName>MyMacUpdater</AdwareName>
+		<File>/Applications/MyMacUpdater/MyMacUpdater</File>
+	</Adware>
+</AdwareDefinition>
+

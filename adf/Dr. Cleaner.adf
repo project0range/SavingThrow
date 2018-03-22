@@ -1,0 +1,13 @@
+AdwareDefinition>
+	<Version>90</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>Dr. Cleaner</AdwareName>
+		<File>/Users/*/Library/Preferences/com.trendmicro.DrCleanerOnline.plist</File>
+		<File>/Applications/dr. cleaner pro.app</File>
+		<File>/Users/*/Library/Application Scripts/com.trendmicro.DrCleanerOnline</File>
+		<File>/Users/*/Library/Containers/com.trendmicro.DrCleanerOnline</File>
+	</Adware>
+</AdwareDefinition>		

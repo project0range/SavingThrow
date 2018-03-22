@@ -1,0 +1,11 @@
+<AdwareDefinition>
+	<Version>90</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>SimpleSearchApp</AdwareName>
+		<File>//users/*/library/application support/com.simplesearchapp</File>
+		<File cruft="true">/users/*/library/LaunchAgents/com.SimpleSearchApp.plist</File>
+	</Adware>
+</AdwareDefinition>

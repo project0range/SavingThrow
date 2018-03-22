@@ -1,0 +1,155 @@
+<AdwareDefinition>
+	<Version>95</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Comment>This definition is based on the AdwareMedic list of files, not the Apple kbase article. It includes some different things.</Comment>
+	<Comment>This is a work in progress, and as such, many lines are as of yet unconverted to ADF format.</Comment>
+	<Adware>
+		<AdwareName>Genieo</AdwareName>
+		<!-- <item type="login">Genieo</item> -->
+		<!-- <item type="login">InKeepr</item> -->
+		<!-- <item type="extName" havingContent="(genieo)|(installmac)">omnibar</item> -->
+		<!-- <item type="extName" havingContent="com\.gold\.safari">GoldenBoy</item> -->
+		<!-- <item type="extName">texiday</item> -->
+		<!-- <item type="extContent">valueIMSearchEngine</item> -->
+		<TestedFile>
+			<Path>/Users/*/Library/LaunchAgents</Path>
+			<Path>/private/var/root/Library/LaunchAgents</Path>
+			<FilenameRegex>\.((download)|(update)|(ltvbit))\.plist</FilenameRegex>
+			<Regex>\-firstAppId</Regex>
+		</TestedFile>
+		<File>/Library/LaunchAgents/com.genieoinnovation.macextension.plist</File>
+		<File>/Library/LaunchAgents/com.genieoinnovation.macextension.client.plist</File>
+		<File>/Library/LaunchAgents/com.genieo.engine.plist</File>
+		<File>/Library/LaunchAgents/com.genieo.completer.update.plist</File>
+		<File>/Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist</File>
+		<File>/Applications/Celipsow.app</File>
+		<File>/Applications/Feelbegin.app</File>
+		<File>/Applications/Epolife.app</File>
+		<File>/Applications/Genieo.app.app</File>
+		<File>/Applications/InKeepr.app.app</File>
+		<File>/Applications/InKeepr.app</File>
+		<File>/Applications/InstallGenieo.app.app</File>
+		<File>/Applications/InstallMac.app</File>
+		<File>/Applications/JakeCares.app</File>
+		<File>/Applications/Javeview.app</File>
+		<File>/Applications/Jimbrie.app</File>
+		<File>/Applications/Kuklorest.app</File>
+		<File>/Applications/Leperdvil.app</File>
+		<File>/Applications/Listchack.app</File>
+		<File>/Applications/Lunaticake.app</File>
+		<File>/Applications/mainorne.app</File>
+		<File>/Applications/montageobox.app</File>
+		<File>/Applications/Myppes.app</File>
+		<File>/Applications/Nariabox.app</File>
+		<File>/Applications/Olivernetko.app</File>
+		<File>/Applications/Oliverto.app</File>
+		<File>/Applications/Opinteks.app</File>
+		<File>/Applications/Otwexplain.app</File>
+		<File>/Applications/Portsayd.app</File>
+		<File>/Applications/Qamails.app</File>
+		<File>/Applications/Quitelex.app</File>
+		<File>/Applications/Reset Search.app.app</File>
+		<File>/Applications/Texiday.app</File>
+		<File>/Applications/Totiteck.app</File>
+		<File>/Applications/Uninstall Genieo.app</File>
+		<File>/Applications/Uninstall IM Completer.app</File>
+		<File>/Applications/Epolife</File>
+		<File>/Applications/FriendlySocket</File>
+		<File>/Applications/pdf/pdf.pronto</File>
+		<File>/Applications/pdf/Uninstallpdf.pronto</File>
+		<File>/Applications/pronto/pdf.pronto</File>
+		<Process>AppYM</Process>
+		<Process>genieo</Process>
+		<Process>Genieo</Process>
+		<Process>inkeepr</Process>
+		<Process>InKeepr</Process>
+		<Process>installgenieo</Process>
+		<Process>InstallGenieo</Process>
+		<File cruft="true">/Users/*/Library/Application Support/Asistents</File>
+		<File cruft="true">/Users/*/Library/Application Support/Celipsow</File>
+		<File cruft="true">/Users/*/Library/Application Support/com.genieoinnovation.Installer</File>
+		<File cruft="true">/Users/*/Library/Application Support/Epolife</File>
+		<File cruft="true">/Users/*/Library/Application Support/Feelbegin</File>
+		<File cruft="true">/Users/*/Library/Application Support/Genieo</File>
+		<File cruft="true">/Users/*/Library/Application Support/IM.Installer</File>
+		<File cruft="true">/Users/*/Library/Application Support/InKeepr</File>
+		<File cruft="true">/Users/*/Library/Application Support/JakeCares</File>
+		<File cruft="true">/Users/*/Library/Application Support/Javeview</File>
+		<File cruft="true">/Users/*/Library/Application Support/Jimbrie</File>
+		<File cruft="true">/Users/*/Library/Application Support/Kuklorest</File>
+		<File cruft="true">/Users/*/Library/Application Support/Leperdvil</File>
+		<File cruft="true">/Users/*/Library/Application Support/Listchack</File>
+		<File cruft="true">/Users/*/Library/Application Support/Lunaticake</File>
+		<File cruft="true">/Users/*/Library/Application Support/mainorne</File>
+		<File cruft="true">/Users/*/Library/Application Support/Manroling</File>
+		<File cruft="true">/Users/*/Library/Application Support/montageobox</File>
+		<File cruft="true">/Users/*/Library/Application Support/Myppes</File>
+		<File cruft="true">/Users/*/Library/Application Support/Nariabox</File>
+		<File cruft="true">/Users/*/Library/Application Support/Olivernetko</File>
+		<File cruft="true">/Users/*/Library/Application Support/Oliverto</File>
+		<File cruft="true">/Users/*/Library/Application Support/Opinteks</File>
+		<File cruft="true">/Users/*/Library/Application Support/Otwexplain</File>
+		<File cruft="true">/Users/*/Library/Application Support/Portsayd</File>
+		<File cruft="true">/Users/*/Library/Application Support/ProntoApp</File>
+		<File cruft="true">/Users/*/Library/Application Support/Qamails</File>
+		<File cruft="true">/Users/*/Library/Application Support/Quitelex</File>
+		<File cruft="true">/Users/*/Library/Application Support/Smokyashan</File>
+		<File cruft="true">/Users/*/Library/Application Support/Smacklek</File>
+		<File cruft="true">/Users/*/Library/Application Support/Totiteck</File>
+		<File>/Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client</File>
+		<File>/Library/Frameworks/GenieoExtra.framework</File>
+		<File>/Users/*/Library/Application Support/Firefox/Profiles/*/searchplugins/my-homepage.xml</File>
+		<File>/Users/*/Library/LaunchAgents/com.genieo.completer.download.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.genieo.completer.ltvbit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.genieo.completer.update.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.installer.completer.download.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.installer.completer.ltvbit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.installer.completer.update.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Feelbegin.AppRemoval.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Javeview.download.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Javeview.ltvbit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Javeview.update.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Kuklorest.AppVemoral.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Kuklorest.btvlit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Kuklorest.dowlnoad.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Kuklorest.uadpte.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Lunaticake.AppVemoral.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Lunaticake.dowlnoad.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Lunaticake.btvlit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Lunaticake.uadpte.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Pagerpost.AppRemoval.plist</File>
+		<File>/Users/*/Library/LaunchAgents/pronto.notification.plist</File>
+		<File>/Users/*/Library/LaunchAgents/pronto.update.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Smokyashan.update.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Smacklek.AppVemoral.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Smacklek.dolnwoad.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Smacklek.btvlit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Smacklek.uadpte.plist</File>
+		<File>/Users/*/Library/LaunchAgents/texiday.download.plist</File>
+		<File>/Users/*/Library/LaunchAgents/texiday.ltvbit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/texiday.update.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Mainorne.AppRemoval.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Mainorne.AppVemoral.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Mainorne.dolnwoad.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Mainorne.btvlit.plist</File>
+		<File>/Users/*/Library/LaunchAgents/Mainorne.upadte.plist</File>
+		<TestedFile>
+			<File>/private/etc/launchd.conf</File>
+			<Regex>lib(gen|imc)kit(sa)?\.dylib</Regex>
+		</TestedFile>
+		<File>/usr/lib/libgenkit.dylib</File>
+		<File>/usr/lib/libgenkitsa.dylib</File>
+		<File>/usr/lib/libimckit.dylib</File>
+		<File>/usr/lib/libimckitsa.dylib</File>
+		<File>/Users/*/Library/Safari/Extensions/Friendlysocket*</File>
+		<File>/Users/*/Library/Safari/Extensions/Lunaticake.safariextz</File>
+		<File>/Users/*/Library/Safari/Extensions/Mainorne.safariextz</File>
+		<File>/Users/*/Library/Safari/Extensions/Nariabox.safariextz</File>
+		<File>/Users/*/Library/Safari/Extensions/Oliverto.safariextz</File>
+		<File>/Users/*/Library/Safari/Extensions/Omnibar.safariextz</File>
+		<File>/Users/*/Library/Safari/Extensions/Poptotop.safariextz</File>
+		<File>/Users/*/Library/Safari/Extensions/Ratplee.safariextz</File>
+	</Adware>
+</AdwareDefinition>

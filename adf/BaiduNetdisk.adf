@@ -1,0 +1,22 @@
+<AdwareDefinition>
+    <Version>96</Version>
+    <SavingThrowVersion>1.1.0</SavingThrowVersion>
+    <DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+    <DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+    <Adware>
+        <AdwareName>BaiduNetdisk</AdwareName>
+        <!-- <item type="extName">(searchme)|(slick ?savings)|(amazon ?shopping ?assistant)|(ebay ?shopping ?assistant)|(domain ?error ?assistant)</item> -->
+        <File>/Users/*/Library/Application Support/com.baidu.BaiduNetdisk-mac</File>
+        <File>/Users/*/Library/Caches/com.baidu.BaiduNetdisk-mac</File>
+        <File>Users/*/Library/Caches/com.plausiblelabs.crashreporter.data/com.baidu.BaiduNetdisk-mac</File>
+        <File>Users/*/Library/Cookies/com.baidu.BaiduNetdisk-mac.binarycookies</File>
+        <File>~/Library/Preferences/com.baidu.BaiduNetdisk-mac.plist</File>
+        <File>~/Library/sapi/wappass.baidu.com</File>
+        <File>~/Library/Saved Application State/com.baidu.BaiduNetdisk-mac.savedState</File>
+        <TestedFile>
+            <Path>/Users/*/Library/Application Support/Firefox/Profiles/*/searchplugins</Path>
+            <FilenameRegex>.*\.xml</FilenameRegex>
+            <Regex>search\.yahoo\.com/search\?fr=baidunetdisk</Regex>
+        </TestedFile>
+    </Adware>
+</AdwareDefinition>
