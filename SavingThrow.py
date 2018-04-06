@@ -94,8 +94,42 @@ __version__ = "1.1.0"
 
 # Included for historical reasons: see note at top.
 NEFARIOUS_FILE_SOURCES = []
-ADF_FILE_SOURCES = ['https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacKeeper.adf',
-                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/AdvancedMacCleaner.adf']
+ADF_FILE_SOURCES = ['https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/AdvancedMacCleaner.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/AppCleaner.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/AskToolbar.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/AwesomeScreenshot.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/BaiduNetdisk.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/BestYouTubeDownloader.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/ChatZum.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/CleanMyMac.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Conduit.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Crossrider.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/CustomSearch.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/CyberGhost.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Dr. Cleaner.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/FkCodec.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Genieo.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/GoPhoto.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Hola.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/JDIBackup.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/ListenToYouTube.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacFileOpener.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacKeeper.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MegaBackup.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MyMacUpdater.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/OperatorMac.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/PremierOpinion.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/SaveKeep.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/SimpleSearchApp.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Sorimbrsec.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Spigot.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Surffinder.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/VSearch.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Vidx-MacVX.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/WebAssistSearch.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Yontoo.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/ZipCloud.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/multimalware.adf']
 
 # Include Apple's identified Adware files by default.
 # https://support.apple.com/en-us/ht203987
