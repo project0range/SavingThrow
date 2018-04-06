@@ -94,7 +94,8 @@ __version__ = "1.1.0"
 
 # Included for historical reasons: see note at top.
 NEFARIOUS_FILE_SOURCES = []
-ADF_FILE_SOURCES = []
+ADF_FILE_SOURCES = ['https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacKeeper.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/AdvancedMacCleaner.adf']
 
 # Include Apple's identified Adware files by default.
 # https://support.apple.com/en-us/ht203987
