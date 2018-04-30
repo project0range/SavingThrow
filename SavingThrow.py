@@ -129,7 +129,8 @@ ADF_FILE_SOURCES = ['https://raw.githubusercontent.com/project0range/SavingThrow
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/WebAssistSearch.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Yontoo.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/ZipCloud.adf',
-                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/multimalware.adf']
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/multimalware.adf',
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/Updater_Mrcy.adf']
 
 # Include Apple's identified Adware files by default.
 # https://support.apple.com/en-us/ht203987
