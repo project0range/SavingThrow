@@ -1,0 +1,14 @@
+<AdwareDefinition>
+	<Version>95</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
+	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<Adware>
+		<AdwareName>Updater_Mrcy</AdwareName>
+		<File cruft="true">/Users/*/Library/LaunchAgents/com.updater.mcy.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.updater.watch.mcy.plist</File>
+		<File>/Users/*/Library/Caches/updater_mcy</File>
+		<File>/Users/*/Library/Preferences/com.updater.stg.mcy.plist</File>
+		<File>/Users/*/library/application support/updater_mcy/updater_mcy</File>
+	</Adware>
+</AdwareDefinition>
