@@ -6,7 +6,7 @@
 	<Adware>
 		<AdwareName>ProntoVideoConverter</AdwareName>
 		<File>/Applications/com.Pronto Video Converter.Installer</File>
-		<File> cruft="true">/Users/*/Library/Application Support/prontoapp>
+		<File> cruft="true">/Users/*/Library/Application Support/prontoapp</File>
 		<File>/Users/*/Library/LaunchAgents/com.Pronto Video Converter.agent</File>
 		<File>/Users/*/Library/LaunchAgents/com.Pronto Video Converter.engine.plist</File>
 		<File>/Users/*/Library/LaunchAgents/com.Pronto Video Converter.macextension.plist</File>
