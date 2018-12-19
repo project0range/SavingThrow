@@ -115,7 +115,7 @@ ADF_FILE_SOURCES = ['https://raw.githubusercontent.com/project0range/SavingThrow
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/ListenToYouTube.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacFileOpener.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacKeeper.adf',
-                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacCleanupPro.adf,
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MacCleanupPro.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MegaBackup.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MyMacUpdater.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/OperatorMac.adf',
