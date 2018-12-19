@@ -119,7 +119,7 @@ ADF_FILE_SOURCES = ['https://raw.githubusercontent.com/project0range/SavingThrow
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MegaBackup.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/MyMacUpdater.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/OperatorMac.adf',
-                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/OperatorMac.adf,
+                    'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/OperatorMac.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/PremierOpinion.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/SaveKeep.adf',
                     'https://raw.githubusercontent.com/project0range/SavingThrow/master/adf/SimpleSearchApp.adf',
