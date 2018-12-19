@@ -1,0 +1,17 @@
+
+<AdwareDefinition>
+	<Version>1.0</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Paul Prieto</DefinitionAuthor>
+	<DefinitionSource>MWBYTES</DefinitionSource>
+	<Adware>
+		<AdwareName>MacCleanuoPro</AdwareName>
+		<File>/Users/*/Library/LaunchAgents/com.pcv.hlprmcp.plist</File>
+		<File>/Applications/Mac Cleanup Pro.app</File>
+		<File cruft="true">/Users/*/Library/Application Support/Mac Cleanup Pro</File>
+		<File cruft="true">/Users/*/Library/Application Support/mcp</File>
+		<File cruft="true">/Users/*/Library/Mac Cleanup Pro</File>
+		<File cruft="true">/Users/*/Library/Preferences/com.techyutils.maccleanuppro.plist</File>
+		<Process>Mac Cleanup Pro</Process>
+	</Adware>
+</AdwareDefinition>
